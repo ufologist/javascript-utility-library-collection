@@ -4,6 +4,13 @@ collect popular (independent) utility javascript (micro) library
 
 DO ONE THING AND DO IT WELL
 
+希望在JavaScript世界里有类似 Apache Commons 这样的项目组, 形成常用的工具库.
+
+都是单一功能, 简单实用型, 在处理这些日常问题时, 如果大家都自己写一个半成品的库, 既不稳定也不环保, 况且何必把绳命浪费在复制/粘帖中呢? 有更多神奇的想法等待着大家去实现, 使用这些工具库会让你事半功倍.
+
+我只是简单收集了一些, 希望给大家带来帮助.
+
+
 We LOVE D.R.Y.
 -------------------------------------
 We have <a href="http://commons.apache.org/">Apache Commons</a> in Java, so JavaScript?
